@@ -1,0 +1,22 @@
+{
+  "name": "angular-filesystem",
+  "version": "1.0.0",
+  "description": "Filesystem Manager with IndexedDB and Google Chrome Filesystem",
+  "main": "filesystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "angular": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behzadkhalili/angular-filesystem.git"
+  },
+  "author": "Behzad Khalili <behzadkhalili.online@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behzadkhalili/angular-filesystem/issues"
+  },
+  "homepage": "https://github.com/behzadkhalili/angular-filesystem#readme"
+}
